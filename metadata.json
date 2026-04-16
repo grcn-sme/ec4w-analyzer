@@ -1,0 +1,5 @@
+{
+  "name": "HAR Analyzer",
+  "description": "A lightweight, browser-based HAR file viewer for analyzing network requests and performance.",
+  "requestFramePermissions": []
+}
